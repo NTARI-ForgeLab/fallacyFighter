@@ -1,4 +1,4 @@
-# fallacyFighter
+# Fallacy-Fighter
 Fallacy Fighter
 # Fallacy Trainer: A Duolingo-Style Logical Fallacy Trainer
 
